@@ -1,0 +1,7 @@
+findit.db
+images/
+__pycache__/
+*.pyc
+.env
+.venv/
+venv/
